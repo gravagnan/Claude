@@ -1,0 +1,53 @@
+Purpose of this tool: Sales and customer success have many meetings with customers before onboarding. These teams collect vast information that we use to serve the customer. However, there are often questions that Data managers and Engineers have about the customer that are important, but hard to find. This tool compiles all of the relevant information into a comprehensive summary for each brand. 
+
+Sources of brand information: 
+
+1) The sales person creates a summary of information that they collect in a google doc
+Example - Xcel Wetsuits – Intro Call Prep
+
+2) The customer success person keeps track of any changes and updates to the customers information over time. 
+Google sheet - Customers
+
+3) Slack messages between the customer service team and the customer clarifies questions as the arrise. 
+
+4) Meeting transcripts in Fireflies and other recording services
+
+
+Non Technical Team needs to know the following: 
+The customer’s preferred communication (email, slack)
+Whether the customer uses Shopify. 
+Who on the customer team does what job and will help with which tasks
+
+
+Tech Team Needs to know about the following:
+
+1) How many accounts they have in shopify, if any.
+2) How they separate the different parts of their business, DTC, Wholesale, other.
+
+3) All data sources, whether data sources are different for different parts of the business. Locations, channels, geos, warehouses
+
+Inventory - ongoing
+Inventory - Historical
+
+Sales - Ongoing
+Sales - Historical
+
+Product details
+Any oddities about the product list (whether all the skus are used in different parts of the business)
+Upskuing - whether some skus inherit the data of other skus
+Kits - whether any skus come together as a kit with its own sku (and the quantities of each)
+
+Purchase orders - data sources
+Whether the customer will use the PO Control Tower
+
+
+
+We need to connect to the following: 
+
+Google
+Slack
+Fireflies
+
+
+
+
